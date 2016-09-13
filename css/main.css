@@ -1,0 +1,108 @@
+img{
+	margin-top: 20px;
+}
+
+.menu {
+	color: #F20570;
+	text-align: right;
+	margin-left: 10px;
+	margin-top:  40px;
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 10px;	
+}
+
+a{
+	text-decoration: none;
+	margin-bottom: 30px;
+}
+.box{
+	background-color: #F5C5FA;
+}
+
+.box1{
+	margin-top: 50px;
+	margin-bottom:30px;
+}
+
+.box1 h1{
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
+.box2{
+	margin-top: 50px;
+	font-size: 15px;
+	color: #9303A6;
+	float: right;
+	background-color: #CAEBD7;
+	width: 80%;
+	border-radius: 60px;
+	text-align: center;
+}
+.get{
+	margin-top: 30px;
+	padding-right: 100px;
+	margin-left: 100px;
+}
+.nombre{
+	width: 150px;
+	margin-left: 100px;
+	color: #F5059D;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.mail{
+	width: 150px;
+	margin-left: 100px;
+	color: #F5059D;
+	margin-bottom: 10px;
+}
+.listo{
+	width: 150px;
+	margin-left: 100px;
+	color: #F5059D;
+	background-color: #F58169;
+	margin-bottom: 30px;
+}
+
+footer{
+	background-color: withe;	
+	padding: 20px;
+}
+
+footer .laboratoria{
+	color: black;
+	margin-left: 12.5%;
+	font-size: 12px;
+}
+
+footer a{
+	color: black;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.lab{
+	padding-left: 40px;
+}
+
+
+@media(min-width: 535px) and ( max-width: 824px){
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
