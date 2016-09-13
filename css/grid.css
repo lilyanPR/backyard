@@ -1,4 +1,7 @@
 /* GLOBAL */
+body{
+	overflow-x: hidden;
+}
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,7 +11,7 @@
 /* Grid system */
 
 .container-fluid {
-	width:100%;
+	width:90%;
 	margin: 0px auto;
 
 }

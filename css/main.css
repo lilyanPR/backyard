@@ -1,9 +1,11 @@
+
 img{
 	margin-top: 20px;
+	width: 40%;
 }
 
 .menu {
-	color: #F20570;
+	
 	text-align: right;
 	margin-left: 10px;
 	margin-top:  40px;
@@ -18,9 +20,10 @@ li{
 a{
 	text-decoration: none;
 	margin-bottom: 30px;
+	color: #F20570;
 }
 .box{
-	background-color: #F5C5FA;
+	background-color: #21CC5D;
 }
 
 .box1{
@@ -40,32 +43,29 @@ a{
 	float: right;
 	background-color: #CAEBD7;
 	width: 80%;
-	border-radius: 60px;
+	border-radius: 30px;
 	text-align: center;
+	padding: 2%;
+	margin-bottom: 50px;
 }
 .get{
 	margin-top: 30px;
-	padding-right: 100px;
-	margin-left: 100px;
+	text-align: center;
+	margin-left: 5%;
 }
-.nombre{
-	width: 150px;
-	margin-left: 100px;
+.nombre, .mail {
+	width: 90%;
+	margin-left:5%;
 	color: #F5059D;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-.mail{
-	width: 150px;
-	margin-left: 100px;
-	color: #F5059D;
-	margin-bottom: 10px;
-}
+
 .listo{
-	width: 150px;
-	margin-left: 100px;
+	width: 90%;
+	margin-left: 5%;
 	color: #F5059D;
-	background-color: #F58169;
+	background-color: #B3F051;
 	margin-bottom: 30px;
 }
 
@@ -81,7 +81,7 @@ footer .laboratoria{
 }
 
 footer a{
-	color: black;
+	color: #F20570;
 	text-decoration: none;
 	font-size: 12px;
 }
@@ -90,11 +90,6 @@ footer a{
 	padding-left: 40px;
 }
 
-
-@media(min-width: 535px) and ( max-width: 824px){
-
-
-}
 
 
 
